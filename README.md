@@ -1,8 +1,7 @@
 
 
 ## Práctica 3. Calculadora de Divisas
-Fecha de entrega Jueves a las 23:59 Puntos 100 Entregando una URL de página web Disponible 5 de mar en 0:00 - 5 de mar en 23:59 23 horas y 59 minutos
-Caso Práctico: Calculadora de Divisas para Viajeros Frecuentes
+
 
 ## Contexto:
 Camila y Diego son viajeros frecuentes. Cada mes visitan un país distinto por razones laborales y necesitan convertir su dinero según la moneda local del país en el que se encuentren. Para facilitar sus viajes, siente la necesidad de su propia calculadora de divisas.
